@@ -1,0 +1,82 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+
+   
+
+body{ background-image:url(/13841402_2010.i123.005..car\ headlights\ AD\ composition.jpg);
+    background-size:cover;
+    
+   
+   
+}
+h1{
+    color: rgba(196, 235, 235, 0.799);
+    font-size:90px;
+    margin-left:50rem;
+    text-align: center;
+}
+h2{
+    color: rgba(196, 235, 235, 0.799);
+    font-size:30px;
+    margin-left:45rem;
+    text-align: center;
+    margin-top: 2rem;
+    padding-top: 2rem;
+
+}
+ul{
+    list-style:none;
+}
+li{
+    display: inline-block;
+    margin-inline: 2rem;
+    
+}
+a{text-decoration: none;
+    font-size: 2rem;
+    color: rgba(0, 0, 0, 0.77);
+}
+nav{
+    background-color:rgba(127, 161, 196, 0.599);
+    border:3px solid rgb(11, 11, 11);
+    height:3rem;
+}
+.cars{
+    text-align:center;
+    color:rgb(251, 250, 250);
+    font-size:15px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left:800px;
+    margin-top:40px;
+    padding-top: 1.5rem;
+   /*  box-sizing: border-box; */
+    border: 2px solid rgba(114, 174, 234, 0.853);
+ outline: 6px solid rgb(2, 10, 0);
+    border-radius: 1px;
+    width: 600px;
+    height: 500px;
+    background-color: #11110f;
+}
+header,footer{
+    position: sticky;
+}
+header{
+    top:0%;
+
+}
+
+footer{
+    bottom: 0%;
+    background-color:rgba(127, 161, 196, 0.599);
+    color:whitesmoke;
+
+}
+a:hover{
+    background-color: rgba(114, 174, 234, 0.981);
+    color:whitesmoke;
+}
